@@ -47,7 +47,7 @@ The case study is based on the IEEE 39-Bus system.
  
 ---
 
-## 📈 Scenarios Simulated
+## Scenarios Simulated
 
 Scenarios are defined based on the type of uncertainty handling:
 
@@ -65,7 +65,7 @@ Each scenario adjusts solar radiation, demand, and financial parameters accordin
 
 ---
 
-## 📥 Output
+## Output
 
 For each scenario, a `.mat` file is generated containing:
 
@@ -81,7 +81,7 @@ These are stored in the `Res` structure for analysis.
 
 ---
 
-## 🧪 Reproducibility
+## Reproducibility
 
 This codebase was used to generate all results, tables, and figures in the associated journal manuscript. The `main.m` script can be executed to replicate simulations for all uncertainty scenarios.
 
