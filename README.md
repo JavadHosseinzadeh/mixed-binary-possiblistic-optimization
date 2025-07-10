@@ -53,7 +53,7 @@ The case study is based on the IEEE 39-Bus system.
   Plots 3D fuzzy load profiles over a daily time horizon using possibility distributions.
 
  ### Economic & Financial Evaluation 
- — econo_analysis.m loads saved .mat scenario results
+ — `econo_analysis.m` loads saved .mat scenario results
  Computes net profit, revenue, maintenance cost, investment cost, and return percentage, producing a clean financial table for all scenarios; this tool supports investor-level profitability analysis under varying uncertainty attitudes.
  
 ---
