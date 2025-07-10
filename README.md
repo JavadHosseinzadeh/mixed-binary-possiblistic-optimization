@@ -42,7 +42,7 @@ The case study is based on the IEEE 39-Bus system.
   Loads saved `.mat` result files and visualizes power flows, storage usage, switching logic, and grid graph.
 
  ### Economic & Financial Evaluation 
- — `econo_analysis.m` loads saved .mat scenario results
+- `econo_analysis.m` loads saved .mat scenario results
  Computes net profit, revenue, maintenance cost, investment cost, and return percentage, producing a clean financial table for all scenarios; this tool supports investor-level profitability analysis under varying uncertainty attitudes.
  
 ---
